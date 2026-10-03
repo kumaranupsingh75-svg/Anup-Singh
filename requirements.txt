@@ -1,0 +1,16 @@
+langchain
+langchain-groq
+langchain-pinecone
+langchain-huggingface
+langchain-community
+langchain-text-splitters
+pinecone
+sentence-transformers
+pypdf
+python-dotenv
+streamlit
+
+.env
+.venv/
+__pycache__/
+*.pyc
