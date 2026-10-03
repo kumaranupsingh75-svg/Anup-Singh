@@ -60,4 +60,4 @@ This chatbot is for learning purposes only and is not a substitute for professio
 
 ## Author
 
-Anup Kumar Singh, B.Tech IT, KIET Group of Institutions, Ghaziabad
+Anup Kumar Singh, B.Tech IT, KIET DEEMED TO BE UNIVERSITY, Ghaziabad
